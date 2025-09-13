@@ -1,0 +1,11 @@
+# Step 1: Check what changed
+git status
+
+# Step 2: Stage all changes
+git add .
+
+# Step 3: Commit with descriptive message
+git commit -m "Updated: [brief description of changes]"
+
+# Step 4: Push to GitHub
+git push
